@@ -1,7 +1,7 @@
 ---
-inProgress: false
-title: Project title
-img_alt: project image alt text
-link: https://github.com/veranikabarel?tab=repositories
-tags: ['React', 'CSS', 'Typescript']
+inProgress: true
+title: Maishapay
+img_alt: A mobile wallet.
+link: https://webtekn.netlify.app/
+tags: ['Android', 'Fintech', 'Java']
 ---
